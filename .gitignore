@@ -1,0 +1,32 @@
+# React Native / Node
+client/node_modules/
+client/package-lock.json
+client/yarn.lock
+client/.expo/
+client/dist/
+client/build/
+
+# Python / Django
+server/venv/
+server/__pycache__/
+server/*.pyc
+server/db.sqlite3
+server/migrations/__pycache__/
+server/*.sqlite3
+
+# Environment files
+.env
+
+# OS / IDE files
+.DS_Store
+Thumbs.db
+.vscode/
+*.log
+
+# React Native / Node
+client/node_modules/
+client/package-lock.json
+client/yarn.lock
+C:\Users\DEVIKA\Desktop\Asignments_projects\learnoverse_assignment\client\client\node_modules
+C:\Users\DEVIKA\Desktop\Asignments_projects\learnoverse_assignment\server\node_modules
+client/client/node_modules/react-native/ReactCommon/react/renderer/components/scrollview/platform/android/react/renderer/components/scrollview/AndroidHorizontalScrollContentViewComponentDescriptor.h
